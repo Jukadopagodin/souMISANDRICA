@@ -38,3 +38,12 @@
 #resultado{
       background-color: plum;
 }
+#resultado{
+      background-color: aliceblue;
+      width: 207px;
+      height: 30px;
+      margin: 5px;
+      color: deeppink;
+      text-align: right;
+      padding: 5px;
+}
